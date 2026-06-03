@@ -4,7 +4,11 @@ An AI-powered customer retention and personalization platform designed to help f
 
 The platform combines Machine Learning, customer segmentation, Next Best Action (NBA) recommendations, and Generative AI to improve customer engagement, retention, and product adoption.
 
----
+## Live Demo
+
+🚀 Try the application here:
+
+**https://bankpersonalizationai-1.streamlit.app/**
 
 ## Business Problem
 
@@ -17,8 +21,6 @@ Banks continuously face challenges in:
 - Lack of actionable customer insights
 
 This platform demonstrates how Machine Learning and AI can be used to proactively identify at-risk customers and enable personalized customer conversations.
-
----
 
 ## Solution Overview
 
@@ -39,7 +41,6 @@ A Random Forest Machine Learning model predicts the likelihood of a customer lea
 
 The model outputs a churn probability score for each customer.
 
----
 
 ### 2. Customer Segmentation
 
@@ -54,7 +55,6 @@ Example segments include:
 
 These segments help prioritize customer engagement strategies.
 
----
 
 ### 3. Next Best Action Engine
 
@@ -68,8 +68,6 @@ The platform recommends personalized retention and growth actions such as:
 
 Recommendations are generated using customer risk and profile characteristics.
 
----
-
 ### 4. AI Relationship Manager Assistant
 
 A Generative AI assistant produces customer-specific engagement briefs that help Relationship Managers:
@@ -80,7 +78,6 @@ A Generative AI assistant produces customer-specific engagement briefs that help
 - Recommend relevant banking products
 - Improve customer experience
 
----
 
 ## Machine Learning Pipeline
 
@@ -110,7 +107,6 @@ A Generative AI assistant produces customer-specific engagement briefs that help
 - Feature Importance Analysis
 - SHAP Explainability
 
----
 
 ## Technology Stack
 
@@ -144,7 +140,6 @@ A Generative AI assistant produces customer-specific engagement briefs that help
 - Git
 - GitHub
 
----
 
 ## Business Impact
 
@@ -157,7 +152,6 @@ This platform demonstrates how banks can:
 - Support Relationship Managers with AI
 - Drive data-driven decision making
 
----
 
 ## Future Enhancements
 
@@ -170,7 +164,6 @@ This platform demonstrates how banks can:
 - MLOps monitoring pipeline
 - Customer 360 analytics
 
----
 
 ## Author
 
